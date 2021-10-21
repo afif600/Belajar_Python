@@ -16,3 +16,5 @@
 7.Output <p>
 ![gambar 7](screenshot/python7.png)
 8.SELESAI <P>
+
+### Sekian Terima Kasih
