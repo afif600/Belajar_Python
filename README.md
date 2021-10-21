@@ -4,7 +4,7 @@
 1.Buka IDLE Python di pencarian (search) <p>
 ![gambar 1](screenshot/python1.png)
 2.Klik (File-New File) <p>
-!
+![gambar 2](screenshot/python2.png)
 3.Setelah itu Klik (File-Save) <p>
 !
 4.Lalu pilih tempat untuk menyimpan file Pythonnya "JANGAN LUPA Menggunakan Format.py" <p>
